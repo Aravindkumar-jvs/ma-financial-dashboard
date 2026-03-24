@@ -1,0 +1,101 @@
+Deal_ID,Acquirer,Target,Industry,Deal_Type,Stage,Region,Financial_Advisor,Announcement_Date,Year,Quarter,Deal_Value_USD_M,Target_Revenue_USD_M,Target_EBITDA_USD_M,EV_EBITDA_Multiple,EV_Revenue_Multiple,Synergies_USD_M,Acquisition_Premium_Pct,Days_to_Completion
+MA-1001,DeltaIndustries,AlphaTech,Consumer Goods,Merger,Due Diligence,Europe,Morgan Stanley,2023-10-17,2023,Q4,3716.3,1292.5,296.3,12.5,2.88,203.5,14.2,
+MA-1002,ThetaCo,SigmaSoft,Technology,Leveraged Buyout,Due Diligence,Middle East,PwC,2021-03-27,2021,Q1,2273.6,1333.7,243.5,9.3,1.7,372.5,17.2,
+MA-1003,XiXchange,LambdaWorks,Consumer Goods,Merger,Due Diligence,Asia Pacific,Morgan Stanley,2020-07-08,2020,Q3,1930.6,632.3,187.3,10.3,3.05,173.1,12.0,
+MA-1004,OmicronOil,TauTelecom,Healthcare,Joint Venture,Announced,Middle East,Deloitte,2024-08-25,2024,Q3,3161.8,655.5,190.2,16.6,4.82,249.3,13.1,
+MA-1005,ThetaCo,LambdaWorks,Healthcare,Merger,Announced,Latin America,Deloitte,2022-07-17,2022,Q3,3196.6,1072.1,308.0,10.4,2.98,260.3,22.0,
+MA-1006,GammaSolutions,EtaHoldings,Energy,Merger,Terminated,Latin America,Deloitte,2023-08-03,2023,Q3,3456.4,1319.8,400.3,8.6,2.62,571.2,12.5,
+MA-1007,BetaCorp,MuMedia,Telecom,Divestiture,Announced,Europe,KPMG,2021-03-11,2021,Q1,3294.4,1734.2,306.5,10.7,1.9,391.5,21.9,
+MA-1008,ThetaCo,TauTelecom,Consumer Goods,Leveraged Buyout,Terminated,Middle East,PwC,2022-01-11,2022,Q1,1135.6,255.2,63.2,18.0,4.45,72.3,12.1,
+MA-1009,DeltaIndustries,ZetaVentures,Financial Services,Joint Venture,Announced,Latin America,PwC,2023-05-05,2023,Q2,4980.8,2373.1,403.3,12.4,2.1,892.1,10.5,
+MA-1010,DeltaIndustries,TauTelecom,Consumer Goods,Divestiture,Announced,Asia Pacific,PwC,2020-11-19,2020,Q4,2295.9,724.2,131.6,17.4,3.17,205.5,32.5,
+MA-1011,ZetaVentures,SigmaSoft,Healthcare,Divestiture,Due Diligence,Europe,KPMG,2024-04-10,2024,Q2,849.7,277.1,48.7,17.4,3.07,159.6,37.0,
+MA-1012,PiPharma,AlphaTech,Healthcare,Divestiture,Completed,Europe,Goldman Sachs,2021-05-08,2021,Q2,4396.1,593.1,253.2,17.4,7.41,540.3,13.1,449
+MA-1013,SigmaSoft,EpsilonGroup,Financial Services,Joint Venture,Due Diligence,Asia Pacific,PwC,2021-03-09,2021,Q1,4648.1,1468.8,308.6,15.1,3.16,729.5,28.0,
+MA-1014,MuMedia,PiPharma,Real Estate,Acquisition,Due Diligence,Europe,Morgan Stanley,2021-11-23,2021,Q4,154.1,53.1,12.2,12.6,2.9,7.9,41.9,
+MA-1015,BetaCorp,IotaSystems,Healthcare,Acquisition,Completed,North America,EY,2021-07-24,2021,Q3,3361.4,992.0,392.2,8.6,3.39,639.8,35.7,302
+MA-1016,ThetaCo,RhoRetail,Telecom,Merger,Announced,North America,PwC,2021-12-26,2021,Q4,2146.7,909.5,185.0,11.6,2.36,324.2,54.3,
+MA-1017,DeltaIndustries,BetaCorp,Telecom,Divestiture,Announced,Europe,EY,2021-01-24,2021,Q1,2704.6,962.6,352.1,7.7,2.81,322.9,49.4,
+MA-1018,GammaSolutions,PiPharma,Healthcare,Acquisition,Announced,North America,EY,2020-12-06,2020,Q4,2061.7,955.8,175.1,11.8,2.16,382.2,17.4,
+MA-1019,AlphaTech,XiXchange,Consumer Goods,Joint Venture,Completed,Latin America,Lazard,2020-11-13,2020,Q4,990.0,256.9,115.0,8.6,3.85,158.8,12.7,220
+MA-1020,BetaCorp,GammaSolutions,Real Estate,Leveraged Buyout,Due Diligence,North America,Morgan Stanley,2024-10-09,2024,Q4,969.8,346.9,73.8,13.1,2.8,82.7,15.4,
+MA-1021,TauTelecom,ThetaCo,Technology,Leveraged Buyout,Announced,Latin America,KPMG,2021-06-18,2021,Q2,1061.1,214.8,72.7,14.6,4.94,116.1,40.2,
+MA-1022,KappaEnterprises,PiPharma,Manufacturing,Acquisition,Announced,Latin America,Morgan Stanley,2020-05-30,2020,Q2,2711.3,568.2,224.6,12.1,4.77,277.5,13.1,
+MA-1023,ThetaCo,NuNetworks,Consumer Goods,Merger,Terminated,Middle East,Deloitte,2023-06-06,2023,Q2,4920.1,1291.1,313.7,15.7,3.81,738.9,35.0,
+MA-1024,DeltaIndustries,ZetaVentures,Consumer Goods,Acquisition,Announced,Middle East,JP Morgan,2021-07-11,2021,Q3,1444.7,571.1,169.4,8.5,2.53,221.2,48.4,
+MA-1025,RhoRetail,PiPharma,Consumer Goods,Acquisition,Announced,Latin America,Deloitte,2020-03-31,2020,Q1,67.6,20.0,4.4,15.4,3.38,6.0,43.4,
+MA-1026,SigmaSoft,XiXchange,Technology,Acquisition,Announced,Europe,Goldman Sachs,2024-09-05,2024,Q3,1877.6,553.0,148.7,12.6,3.4,105.7,26.4,
+MA-1027,BetaCorp,NuNetworks,Energy,Merger,Announced,Asia Pacific,PwC,2023-06-25,2023,Q2,3759.9,647.7,219.8,17.1,5.81,279.6,46.0,
+MA-1028,ZetaVentures,OmicronOil,Technology,Merger,Completed,Latin America,EY,2021-06-30,2021,Q2,838.0,205.1,58.1,14.4,4.09,46.8,31.2,162
+MA-1029,OmicronOil,MuMedia,Consumer Goods,Merger,Due Diligence,North America,EY,2022-03-27,2022,Q1,1674.9,600.3,102.3,16.4,2.79,153.9,38.9,
+MA-1030,NuNetworks,TauTelecom,Manufacturing,Acquisition,Announced,Asia Pacific,JP Morgan,2023-04-04,2023,Q2,4814.5,1275.5,524.1,9.2,3.77,554.6,42.8,
+MA-1031,LambdaWorks,OmicronOil,Healthcare,Joint Venture,Due Diligence,Asia Pacific,Goldman Sachs,2023-12-22,2023,Q4,2208.5,942.8,180.4,12.2,2.34,338.0,52.3,
+MA-1032,EtaHoldings,NuNetworks,Telecom,Acquisition,Completed,Middle East,KPMG,2023-09-20,2023,Q3,4247.7,929.0,290.2,14.6,4.57,409.4,28.4,266
+MA-1033,KappaEnterprises,TauTelecom,Financial Services,Merger,Terminated,Latin America,JP Morgan,2023-06-14,2023,Q2,2867.1,1406.8,263.7,10.9,2.04,274.0,19.5,
+MA-1034,TauTelecom,LambdaWorks,Real Estate,Joint Venture,Terminated,Europe,Lazard,2024-06-13,2024,Q2,4510.8,776.8,290.0,15.6,5.81,282.9,33.2,
+MA-1035,UpsilonUtilities,LambdaWorks,Healthcare,Merger,Completed,Europe,EY,2020-10-28,2020,Q4,170.9,74.5,19.1,8.9,2.29,30.3,13.3,272
+MA-1036,TauTelecom,EtaHoldings,Telecom,Joint Venture,Terminated,Europe,JP Morgan,2023-09-05,2023,Q3,3453.7,1124.8,206.7,16.7,3.07,631.4,45.0,
+MA-1037,ThetaCo,ZetaVentures,Real Estate,Acquisition,Due Diligence,North America,Lazard,2020-09-30,2020,Q3,4017.0,1706.3,286.7,14.0,2.35,559.6,52.8,
+MA-1038,OmicronOil,SigmaSoft,Telecom,Leveraged Buyout,Terminated,Europe,Lazard,2022-07-10,2022,Q3,1333.0,676.7,148.7,9.0,1.97,219.8,33.5,
+MA-1039,ThetaCo,KappaEnterprises,Real Estate,Acquisition,Completed,Europe,Deloitte,2021-11-18,2021,Q4,1632.6,334.0,130.8,12.5,4.89,138.3,41.2,421
+MA-1040,EtaHoldings,GammaSolutions,Telecom,Joint Venture,Completed,Middle East,Lazard,2022-05-01,2022,Q2,358.2,79.7,22.4,16.0,4.49,59.3,52.6,70
+MA-1041,TauTelecom,NuNetworks,Real Estate,Acquisition,Completed,Asia Pacific,PwC,2024-10-13,2024,Q4,4463.6,1156.6,278.5,16.0,3.86,715.0,46.0,519
+MA-1042,ThetaCo,RhoRetail,Energy,Divestiture,Terminated,Latin America,Goldman Sachs,2022-03-07,2022,Q1,1713.8,438.1,121.1,14.2,3.91,128.1,31.0,
+MA-1043,EpsilonGroup,TauTelecom,Technology,Joint Venture,Announced,North America,PwC,2020-10-04,2020,Q4,4340.9,1613.4,530.6,8.2,2.69,430.2,30.5,
+MA-1044,LambdaWorks,XiXchange,Consumer Goods,Joint Venture,Completed,North America,Lazard,2020-02-09,2020,Q1,3757.7,3294.1,567.2,6.6,1.14,314.3,13.1,393
+MA-1045,BetaCorp,AlphaTech,Energy,Merger,Announced,Middle East,JP Morgan,2021-05-03,2021,Q2,674.8,204.7,48.1,14.0,3.3,55.8,41.5,
+MA-1046,MuMedia,ZetaVentures,Healthcare,Merger,Completed,North America,Goldman Sachs,2021-09-30,2021,Q3,2900.2,600.8,171.6,16.9,4.83,554.6,18.9,363
+MA-1047,ThetaCo,DeltaIndustries,Consumer Goods,Leveraged Buyout,Announced,Middle East,Goldman Sachs,2021-12-12,2021,Q4,2687.1,438.8,192.8,13.9,6.12,395.4,10.6,
+MA-1048,XiXchange,RhoRetail,Healthcare,Joint Venture,Completed,Latin America,JP Morgan,2022-06-10,2022,Q2,921.9,346.1,75.2,12.3,2.66,131.3,51.4,456
+MA-1049,PiPharma,OmicronOil,Telecom,Leveraged Buyout,Completed,Asia Pacific,EY,2024-08-28,2024,Q3,4676.4,1902.7,500.3,9.3,2.46,760.2,35.6,402
+MA-1050,NuNetworks,LambdaWorks,Technology,Joint Venture,Completed,Europe,Lazard,2021-03-10,2021,Q1,1806.4,619.0,198.5,9.1,2.92,251.9,49.6,344
+MA-1051,AlphaTech,SigmaSoft,Energy,Acquisition,Due Diligence,Latin America,Lazard,2023-02-11,2023,Q1,3802.9,1220.2,266.2,14.3,3.12,470.1,45.7,
+MA-1052,GammaSolutions,LambdaWorks,Energy,Joint Venture,Due Diligence,Asia Pacific,KPMG,2022-08-27,2022,Q3,2789.7,1649.3,275.5,10.1,1.69,369.8,25.8,
+MA-1053,OmicronOil,IotaSystems,Consumer Goods,Divestiture,Due Diligence,North America,EY,2021-10-08,2021,Q4,641.8,260.5,51.6,12.4,2.46,49.9,19.7,
+MA-1054,PiPharma,IotaSystems,Consumer Goods,Acquisition,Due Diligence,Asia Pacific,EY,2022-01-09,2022,Q1,938.2,629.2,152.1,6.2,1.49,85.5,53.8,
+MA-1055,SigmaSoft,KappaEnterprises,Financial Services,Joint Venture,Announced,North America,Deloitte,2022-08-19,2022,Q3,2419.6,1405.7,239.8,10.1,1.72,212.6,48.8,
+MA-1056,DeltaIndustries,GammaSolutions,Telecom,Joint Venture,Announced,Middle East,Goldman Sachs,2020-11-06,2020,Q4,788.5,198.7,61.8,12.8,3.97,157.0,15.3,
+MA-1057,XiXchange,ThetaCo,Telecom,Joint Venture,Terminated,Asia Pacific,PwC,2021-09-17,2021,Q3,2864.7,2488.6,426.1,6.7,1.15,185.9,44.3,
+MA-1058,EtaHoldings,KappaEnterprises,Healthcare,Merger,Due Diligence,Europe,Morgan Stanley,2020-11-16,2020,Q4,63.2,24.1,5.5,11.5,2.62,5.9,20.4,
+MA-1059,KappaEnterprises,PiPharma,Healthcare,Merger,Completed,Middle East,EY,2022-05-20,2022,Q2,618.1,184.6,71.1,8.7,3.35,55.5,16.4,90
+MA-1060,ZetaVentures,LambdaWorks,Consumer Goods,Joint Venture,Announced,Latin America,Deloitte,2023-12-04,2023,Q4,2042.4,916.8,220.4,9.3,2.23,236.2,36.9,
+MA-1061,XiXchange,LambdaWorks,Consumer Goods,Acquisition,Announced,Europe,Goldman Sachs,2024-04-15,2024,Q2,3377.8,790.5,365.8,9.2,4.27,552.1,31.2,
+MA-1062,OmicronOil,IotaSystems,Financial Services,Leveraged Buyout,Terminated,Latin America,Morgan Stanley,2022-08-20,2022,Q3,1772.4,829.4,177.2,10.0,2.14,316.7,24.8,
+MA-1063,PiPharma,KappaEnterprises,Telecom,Leveraged Buyout,Announced,Latin America,Morgan Stanley,2021-10-06,2021,Q4,1299.4,894.9,175.8,7.4,1.45,233.5,47.1,
+MA-1064,AlphaTech,TauTelecom,Real Estate,Joint Venture,Announced,Europe,KPMG,2023-06-29,2023,Q2,3794.4,1416.2,281.0,13.5,2.68,305.6,34.7,
+MA-1065,KappaEnterprises,PiPharma,Real Estate,Acquisition,Announced,Middle East,EY,2023-12-24,2023,Q4,834.0,278.2,66.1,12.6,3.0,53.4,54.7,
+MA-1066,DeltaIndustries,PiPharma,Healthcare,Merger,Terminated,Asia Pacific,Deloitte,2022-04-30,2022,Q2,4181.9,700.3,235.4,17.8,5.97,554.9,27.3,
+MA-1067,UpsilonUtilities,RhoRetail,Financial Services,Acquisition,Completed,Latin America,KPMG,2024-06-01,2024,Q2,2563.3,506.7,161.8,15.8,5.06,243.0,36.4,397
+MA-1068,PiPharma,EpsilonGroup,Real Estate,Leveraged Buyout,Terminated,Asia Pacific,KPMG,2023-02-04,2023,Q1,3826.2,2083.4,363.5,10.5,1.84,690.4,54.1,
+MA-1069,ThetaCo,UpsilonUtilities,Telecom,Merger,Terminated,North America,KPMG,2024-03-05,2024,Q1,2391.2,497.0,141.0,17.0,4.81,474.1,45.7,
+MA-1070,EpsilonGroup,RhoRetail,Technology,Merger,Completed,North America,Lazard,2020-07-23,2020,Q3,2653.5,1130.0,231.1,11.5,2.35,295.9,39.5,139
+MA-1071,GammaSolutions,RhoRetail,Consumer Goods,Divestiture,Terminated,North America,KPMG,2024-10-11,2024,Q4,3388.1,1589.1,273.2,12.4,2.13,488.0,49.9,
+MA-1072,PiPharma,TauTelecom,Technology,Leveraged Buyout,Announced,Europe,Deloitte,2021-04-10,2021,Q2,3746.5,800.2,334.3,11.2,4.68,543.5,49.3,
+MA-1073,OmicronOil,ZetaVentures,Consumer Goods,Acquisition,Announced,Asia Pacific,Goldman Sachs,2021-08-23,2021,Q3,1824.4,486.4,163.4,11.2,3.75,204.0,40.7,
+MA-1074,ZetaVentures,EtaHoldings,Financial Services,Acquisition,Terminated,Middle East,EY,2022-10-16,2022,Q4,4568.5,2276.0,592.0,7.7,2.01,402.5,21.5,
+MA-1075,AlphaTech,PiPharma,Consumer Goods,Leveraged Buyout,Due Diligence,North America,Lazard,2021-12-08,2021,Q4,4938.9,3011.8,515.0,9.6,1.64,758.4,30.6,
+MA-1076,KappaEnterprises,EtaHoldings,Telecom,Joint Venture,Announced,Europe,PwC,2023-03-17,2023,Q1,1826.8,917.7,191.3,9.5,1.99,97.4,47.4,
+MA-1077,NuNetworks,IotaSystems,Technology,Leveraged Buyout,Announced,Middle East,Lazard,2024-09-01,2024,Q3,4525.6,2492.3,479.7,9.4,1.82,638.4,25.9,
+MA-1078,EtaHoldings,KappaEnterprises,Financial Services,Acquisition,Announced,Asia Pacific,Lazard,2020-03-09,2020,Q1,2918.9,466.0,197.4,14.8,6.26,275.2,43.6,
+MA-1079,ZetaVentures,ThetaCo,Financial Services,Leveraged Buyout,Completed,Middle East,Deloitte,2024-08-27,2024,Q3,864.5,294.0,50.9,17.0,2.94,168.7,23.3,505
+MA-1080,LambdaWorks,DeltaIndustries,Real Estate,Acquisition,Due Diligence,Europe,PwC,2024-09-28,2024,Q3,4032.7,2004.2,388.2,10.4,2.01,210.1,34.1,
+MA-1081,OmicronOil,MuMedia,Consumer Goods,Leveraged Buyout,Terminated,Asia Pacific,Morgan Stanley,2023-10-14,2023,Q4,1207.4,1060.9,191.6,6.3,1.14,162.0,51.2,
+MA-1082,ThetaCo,GammaSolutions,Real Estate,Divestiture,Terminated,North America,JP Morgan,2020-04-02,2020,Q2,4734.0,1947.1,490.4,9.7,2.43,305.7,49.9,
+MA-1083,EpsilonGroup,XiXchange,Real Estate,Divestiture,Terminated,Middle East,JP Morgan,2024-12-18,2024,Q4,2103.7,1158.3,292.7,7.2,1.82,234.0,52.8,
+MA-1084,BetaCorp,NuNetworks,Energy,Joint Venture,Terminated,Europe,KPMG,2020-07-22,2020,Q3,4905.6,2642.5,471.3,10.4,1.86,719.8,12.7,
+MA-1085,IotaSystems,EtaHoldings,Healthcare,Joint Venture,Announced,Europe,Goldman Sachs,2020-04-13,2020,Q2,3944.6,1106.9,442.1,8.9,3.56,531.3,13.1,
+MA-1086,SigmaSoft,EtaHoldings,Energy,Merger,Completed,Europe,Goldman Sachs,2021-07-21,2021,Q3,4299.1,1400.3,555.7,7.7,3.07,376.6,17.9,398
+MA-1087,AlphaTech,ZetaVentures,Technology,Divestiture,Due Diligence,Middle East,KPMG,2020-02-02,2020,Q1,912.5,683.9,137.7,6.6,1.33,117.6,43.6,
+MA-1088,PiPharma,OmicronOil,Manufacturing,Leveraged Buyout,Announced,Latin America,EY,2023-06-13,2023,Q2,264.7,94.0,17.2,15.4,2.82,33.9,30.6,
+MA-1089,AlphaTech,GammaSolutions,Real Estate,Joint Venture,Terminated,North America,Lazard,2023-12-29,2023,Q4,4553.0,1537.0,661.6,6.9,2.96,643.1,13.0,
+MA-1090,IotaSystems,UpsilonUtilities,Manufacturing,Joint Venture,Completed,Latin America,PwC,2020-07-22,2020,Q3,3975.8,2490.5,539.2,7.4,1.6,722.2,34.8,503
+MA-1091,EtaHoldings,OmicronOil,Real Estate,Merger,Terminated,Asia Pacific,Lazard,2022-03-27,2022,Q1,2109.1,1094.7,295.3,7.1,1.93,315.9,26.8,
+MA-1092,EpsilonGroup,RhoRetail,Healthcare,Acquisition,Announced,North America,PwC,2020-07-16,2020,Q3,3735.7,899.0,356.7,10.5,4.16,220.4,53.0,
+MA-1093,SigmaSoft,LambdaWorks,Healthcare,Joint Venture,Completed,Latin America,Goldman Sachs,2021-08-12,2021,Q3,3022.0,1275.0,295.7,10.2,2.37,247.5,39.6,174
+MA-1094,DeltaIndustries,NuNetworks,Manufacturing,Acquisition,Completed,Middle East,EY,2024-07-11,2024,Q3,2174.1,865.9,170.8,12.7,2.51,311.5,40.4,345
+MA-1095,AlphaTech,KappaEnterprises,Technology,Merger,Completed,Asia Pacific,KPMG,2021-12-19,2021,Q4,80.2,20.9,4.9,16.4,3.84,8.8,16.4,384
+MA-1096,AlphaTech,DeltaIndustries,Energy,Joint Venture,Terminated,Latin America,KPMG,2020-11-18,2020,Q4,1881.8,655.8,128.4,14.7,2.87,254.3,13.8,
+MA-1097,BetaCorp,ZetaVentures,Financial Services,Leveraged Buyout,Announced,North America,Deloitte,2022-06-26,2022,Q2,3326.6,1059.6,281.2,11.8,3.14,302.6,44.0,
+MA-1098,DeltaIndustries,NuNetworks,Telecom,Acquisition,Completed,Middle East,Lazard,2022-12-15,2022,Q4,3352.3,1834.2,512.2,6.5,1.83,469.0,10.3,214
+MA-1099,EtaHoldings,EpsilonGroup,Consumer Goods,Divestiture,Completed,North America,Goldman Sachs,2022-10-15,2022,Q4,3747.7,1627.3,462.2,8.1,2.3,583.0,32.5,486
+MA-1100,MuMedia,GammaSolutions,Telecom,Acquisition,Terminated,North America,Lazard,2020-06-08,2020,Q2,4317.4,1435.8,334.4,12.9,3.01,675.3,28.8,
